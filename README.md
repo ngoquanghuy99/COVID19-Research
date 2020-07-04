@@ -1,1 +1,1 @@
-# COVID-19-diagnosis-and-prognosis
+# These models are just for research purpose, not reliable to use
